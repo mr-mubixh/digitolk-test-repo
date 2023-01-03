@@ -9,4 +9,8 @@ with different params, the params will decide which function should be call for 
 * variables names should follow any naming convention, I preferred snake case
 * on update function in BookingController, //not best approach to update data, 
   the un-fillable fields should be excluded in the model class
-* 
+
+
+
+### BookingController file is fully refactored but BookingRepository is half refactored due to shortage of time.
+## I think you can get the idea of my coding style from my changes.
